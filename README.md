@@ -32,6 +32,3 @@ To run SingleTune locally:
 javac -d out src/**/*.java
 java -cp out Main
 
-
-git clone https://github.com/pcsolano/SingleTune.git
-
